@@ -19,12 +19,14 @@ ul {
   ul {
     background-color: lightblue;
  }
+ 
  h1  {
     color: white;
     text-align: center;
     font-size: 40px;
  }
- h2  {[
+
+ h2  {
     font-size: 30px;
     color: blue;
  }
