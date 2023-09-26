@@ -1,15 +1,4 @@
-ul {
-        background-color: lightblue;
-     }
-     h1  {
-        color: white;
-        text-align: center;
-     }
-     p {
-        font-family: verdana;
-        font-size: 15px;
-     }
-     
+
 ul {
     list-style-type: none;
     margin: 0;
