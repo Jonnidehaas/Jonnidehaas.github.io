@@ -15,5 +15,22 @@ ul {
     display: block;
     padding: 8px;
   }
+  
+  ul {
+    background-color: lightblue;
+ }
+ h1  {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+ }
+ h2  {[
+    font-size: 30px;
+    color: blue;
+ ]}
+ p {
+    font-family: verdana;
+    font-size: 20px;
+ }
 
 
