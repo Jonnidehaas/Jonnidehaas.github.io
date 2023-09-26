@@ -1,5 +1,4 @@
-<style>
-      body {
+ul {
         background-color: lightblue;
      }
      h1  {
@@ -10,7 +9,7 @@
         font-family: verdana;
         font-size: 15px;
      }
-     </style>
+     
 ul {
     list-style-type: none;
     margin: 0;
