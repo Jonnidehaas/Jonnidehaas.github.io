@@ -1,4 +1,4 @@
-
+/*dit is mijn menu*/
 ul {
     list-style-type: none;
     margin: 0;
@@ -17,4 +17,24 @@ ul {
     padding: 8px;
   }
 
+
+
+  body  { 
+   background-color: lightblue; 
+}
+
+h1  {
+   color: white;
+   text-align: center;
+   font-size: 40px;
+}
+
+h2  {
+   font-size: 30px;
+   color: blue;
+}
+p {
+   font-family: verdana;
+   font-size: 20px;
+}
 
