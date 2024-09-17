@@ -66,7 +66,7 @@
 .top-level-menu a /* Apply to all links inside the multi-level menu */
 {
     font: bold 14px Arial, Helvetica, sans-serif;
-    color: #8b9090;
+    color: #111111;
     text-decoration: none;
     padding: 0 0 0 10px;
 
@@ -74,4 +74,4 @@
     display: block;
     line-height: 30px;
 }
-.top-level-menu a:hover { color: #8b9090; }
+.top-level-menu a:hover { color: #0f0f0f; }
